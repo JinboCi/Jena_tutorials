@@ -64,6 +64,9 @@ public class Tutorial10 extends Object {
         }
         
         // print the graph as RDF/XML
+        /* Question:
+        *  what is PrintWriter? Why is it using PrintWriter?
+        */
         model.write(new PrintWriter(System.out));
         System.out.println();
         

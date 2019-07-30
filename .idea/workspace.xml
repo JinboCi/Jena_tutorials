@@ -1,15 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="08dd8367-58af-4624-beb7-53e013428664" name="Default Changelist" comment="" />
+    <list default="true" id="08dd8367-58af-4624-beb7-53e013428664" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vc-db-3.rdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vc-db-4.rdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Jena_tutorials/com/company/Tutorial10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Jena_tutorials/com/company/Tutorial10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Tutorial10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Tutorial10.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1OfkpFnkz4INghcUeiDAgR8v4Mv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -39,16 +54,6 @@
   <component name="RunManager" selected="Application.Tutorial11">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <module name="Jena_tutorials" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="helloworld" />
       <extension name="coverage">
         <pattern>
@@ -60,8 +65,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tutorial05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Tutorial05" />
+    <configuration name="Tutorial07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Tutorial07" />
       <module name="Jena_tutorials" />
       <extension name="coverage">
         <pattern>
@@ -73,8 +78,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tutorial06 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Tutorial06" />
+    <configuration name="Tutorial08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Tutorial08" />
       <module name="Jena_tutorials" />
       <extension name="coverage">
         <pattern>
@@ -86,12 +91,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tutorial06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jena.examples.rdf.Tutorial06" />
+    <configuration name="Tutorial09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Tutorial09" />
       <module name="Jena_tutorials" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jena.examples.rdf.*" />
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tutorial10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Tutorial10" />
+      <module name="Jena_tutorials" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,18 +132,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Tutorial06" />
       <item itemvalue="Application.Tutorial11" />
-      <item itemvalue="Application.Tutorial05" />
-      <item itemvalue="Application.Tutorial06 (1)" />
+      <item itemvalue="Application.Tutorial07" />
+      <item itemvalue="Application.Tutorial08" />
+      <item itemvalue="Application.Tutorial09" />
+      <item itemvalue="Application.Tutorial10" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Tutorial11" />
-        <item itemvalue="Application.Tutorial06 (1)" />
-        <item itemvalue="Application.Tutorial05" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Tutorial06" />
+        <item itemvalue="Application.Tutorial10" />
+        <item itemvalue="Application.Tutorial09" />
+        <item itemvalue="Application.Tutorial08" />
+        <item itemvalue="Application.Tutorial07" />
       </list>
     </recent_temporary>
   </component>
@@ -142,11 +161,38 @@
       <workItem from="1564376224525" duration="3633000" />
       <workItem from="1564380413033" duration="6130000" />
       <workItem from="1564386552434" duration="4000" />
-      <workItem from="1564386762626" duration="89000" />
+      <workItem from="1564386762626" duration="9050000" />
+      <workItem from="1564448428389" duration="217000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Tutorial09.java</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

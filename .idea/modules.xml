@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Jena_tutorials.iml" filepath="$PROJECT_DIR$/Jena_tutorials.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RDF_tutorials.iml" filepath="$PROJECT_DIR$/RDF_tutorials.iml" />
     </modules>
   </component>
 </project>
